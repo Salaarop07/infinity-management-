@@ -1,8 +1,8 @@
 # A Powerful Music And Management Bot
 # Property Of Rocks Indian Largest Chatting Group
 # Without Credit (Mother Fucker)
-# Rocks @Dr_Assad_Ali
-# Owner Asad + Harshit
+# Rocks @owner_infinity_01
+# Owner vivek
 # Roses are red, Violets are blue, A face like yours, Belongs in a zoo
 
 import asyncio
@@ -120,7 +120,7 @@ if ENV:
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", None)
     HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
     TEMP_DOWNLOAD_DIRECTORY = os.environ.get("TEMP_DOWNLOAD_DIRECTORY", "./")
-    TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "Dr_Assad_Ali")
+    TELEGRAPH_SHORT_NAME = os.environ.get("TELEGRAPH_SHORT_NAME", "viveksharma")
     HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME", None)
     LOG_GROUP_ID = os.environ.get('LOG_GROUP_ID', None)
     
