@@ -20,7 +20,7 @@
 
 > ⭐️ Thanks to everyone for using Rocks ˹ɪɴꜰɪɴɪᴛʏ ꭙ ᴍᴧɴᴀɢᴇᴍᴇɴᴛ˼ 🫧, That is the greatest pleasure we have !
 
-## Avaiilable on Telegram as [@@owner_infinity_01](https://t.me/infinity_management_bot)
+## Avaiilable on Telegram as [@owner_infinity_01](https://t.me/infinity_management_bot)
 
 ## ✨ Easy To Deploy Direct In Repo✨
 
